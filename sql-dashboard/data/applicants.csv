@@ -1,0 +1,421 @@
+applicant_id,name,domain,university,application_date,status
+APP0001,David Okeke,UI/UX Design,Covenant University,2025-01-20,Under Review
+APP0002,Samuel Williams,UI/UX Design,Lagos State University,2025-01-21,Selected
+APP0003,Chinedu Chukwu,Data Science,Covenant University,2025-02-03,Selected
+APP0004,Yusuf Okeke,Cyber Security,"Federal University of Technology, Akure",2025-01-22,Selected
+APP0005,Oluwatobi Osei,Web Development,Covenant University,2025-02-21,Selected
+APP0006,Michael Okafor,Mobile App Development,University of Ibadan,2025-02-16,Rejected
+APP0007,Michael Adeyemi,Web Development,Babcock University,2025-01-29,Rejected
+APP0008,Chinedu Osei,UI/UX Design,Lagos State University,2025-01-13,Selected
+APP0009,Yusuf Osei,UI/UX Design,"University of Nigeria, Nsukka",2025-02-01,Rejected
+APP0010,Yusuf Adeyemi,UI/UX Design,Ahmadu Bello University,2025-02-24,Selected
+APP0011,Amina Chukwu,Web Development,"Federal University of Technology, Akure",2025-02-05,Selected
+APP0012,Kelechi Chukwu,Web Development,Lagos State University,2025-02-18,Rejected
+APP0013,Mariam Osei,Web Development,"University of Nigeria, Nsukka",2025-02-10,Rejected
+APP0014,Yusuf Osei,Mobile App Development,Ahmadu Bello University,2025-01-24,Under Review
+APP0015,Adaeze Afolabi,Cyber Security,Lagos State University,2025-02-26,Rejected
+APP0016,Yusuf Olawale,Cyber Security,"University of Nigeria, Nsukka",2025-02-19,Rejected
+APP0017,Yusuf Peter,UI/UX Design,University of Lagos,2025-02-28,Selected
+APP0018,Sarah Chukwu,Mobile App Development,"University of Nigeria, Nsukka",2025-02-03,Under Review
+APP0019,Ibrahim Peter,Web Development,Lagos State University,2025-01-10,Rejected
+APP0020,Yusuf Olawale,Artificial Intelligence,Ahmadu Bello University,2025-02-22,Under Review
+APP0021,Fatima Udo,Artificial Intelligence,Covenant University,2025-01-06,Selected
+APP0022,Chinedu Johnson,Cyber Security,Covenant University,2025-02-14,Selected
+APP0023,Mariam Olawale,Cyber Security,University of Lagos,2025-01-26,Rejected
+APP0024,Yusuf Eze,UI/UX Design,Ahmadu Bello University,2025-02-05,Rejected
+APP0025,Michael Bello,Mobile App Development,University of Ibadan,2025-01-14,Rejected
+APP0026,Michael Peter,Mobile App Development,University of Ibadan,2025-02-08,Under Review
+APP0027,Precious Adeyemi,Artificial Intelligence,"Federal University of Technology, Akure",2025-01-10,Selected
+APP0028,Oluwatobi Olawale,Artificial Intelligence,University of Lagos,2025-02-07,Rejected
+APP0029,Michael Udo,Data Science,Covenant University,2025-02-06,Under Review
+APP0030,Ibrahim Eze,UI/UX Design,Ahmadu Bello University,2025-02-02,Rejected
+APP0031,Sarah Mohammed,Web Development,Covenant University,2025-02-10,Selected
+APP0032,Joy Ibrahim,Artificial Intelligence,University of Lagos,2025-02-03,Under Review
+APP0033,Joy Williams,Web Development,University of Lagos,2025-01-14,Rejected
+APP0034,Joy Eze,Cyber Security,University of Ibadan,2025-01-30,Selected
+APP0035,Samuel Bello,Mobile App Development,"University of Nigeria, Nsukka",2025-01-17,Selected
+APP0036,Mariam Udo,Mobile App Development,"Federal University of Technology, Akure",2025-01-24,Rejected
+APP0037,Ngozi Williams,Mobile App Development,Covenant University,2025-02-08,Rejected
+APP0038,Mariam Chukwu,Cyber Security,Ahmadu Bello University,2025-01-06,Under Review
+APP0039,Sarah Okeke,Mobile App Development,University of Ibadan,2025-01-07,Selected
+APP0040,Ibrahim Olawale,UI/UX Design,Ahmadu Bello University,2025-01-13,Rejected
+APP0041,Mariam Johnson,UI/UX Design,"University of Nigeria, Nsukka",2025-02-11,Selected
+APP0042,Fatima Chukwu,Data Science,Covenant University,2025-02-02,Selected
+APP0043,Amina Olawale,Web Development,University of Ibadan,2025-02-16,Rejected
+APP0044,Ngozi Nwosu,UI/UX Design,Covenant University,2025-01-24,Under Review
+APP0045,Ibrahim Nwosu,Data Science,Covenant University,2025-01-06,Selected
+APP0046,Mariam Peter,Artificial Intelligence,University of Lagos,2025-01-12,Selected
+APP0047,Michael Chukwu,Artificial Intelligence,Babcock University,2025-01-26,Rejected
+APP0048,Amina Osei,Data Science,Ahmadu Bello University,2025-02-13,Rejected
+APP0049,David Olawale,UI/UX Design,"University of Nigeria, Nsukka",2025-01-30,Selected
+APP0050,Oluwatobi Afolabi,Web Development,"Federal University of Technology, Akure",2025-01-07,Selected
+APP0051,Ngozi Okafor,Web Development,Covenant University,2025-01-25,Rejected
+APP0052,Ngozi Adeyemi,UI/UX Design,Babcock University,2025-01-18,Rejected
+APP0053,David Ibrahim,UI/UX Design,Covenant University,2025-01-13,Selected
+APP0054,Oluwatobi Okafor,Artificial Intelligence,"Federal University of Technology, Akure",2025-02-12,Selected
+APP0055,Samuel Osei,Mobile App Development,Ahmadu Bello University,2025-02-24,Selected
+APP0056,Kelechi Eze,Cyber Security,University of Lagos,2025-02-17,Rejected
+APP0057,Precious Nwosu,Cyber Security,Ahmadu Bello University,2025-01-07,Selected
+APP0058,Yusuf Peter,Data Science,Babcock University,2025-01-14,Under Review
+APP0059,Chinedu Ibrahim,UI/UX Design,University of Lagos,2025-02-16,Under Review
+APP0060,Mariam Okeke,Web Development,Babcock University,2025-01-09,Rejected
+APP0061,Adaeze Mohammed,Mobile App Development,University of Lagos,2025-01-20,Rejected
+APP0062,Fatima Osei,Web Development,Babcock University,2025-02-25,Selected
+APP0063,Mariam Okeke,Cyber Security,Babcock University,2025-01-28,Selected
+APP0064,Sarah Williams,Web Development,"University of Nigeria, Nsukka",2025-01-18,Selected
+APP0065,Samuel Eze,Mobile App Development,University of Lagos,2025-01-28,Under Review
+APP0066,Samuel Afolabi,Web Development,University of Ibadan,2025-01-11,Selected
+APP0067,Mariam Eze,Web Development,Covenant University,2025-01-07,Rejected
+APP0068,Michael Afolabi,Mobile App Development,"Federal University of Technology, Akure",2025-02-09,Under Review
+APP0069,Ibrahim Chukwu,Artificial Intelligence,University of Ibadan,2025-02-21,Selected
+APP0070,Mariam Okafor,Artificial Intelligence,Ahmadu Bello University,2025-01-16,Under Review
+APP0071,Michael Okafor,Data Science,University of Ibadan,2025-01-30,Selected
+APP0072,Adaeze Williams,Mobile App Development,Babcock University,2025-02-26,Rejected
+APP0073,Ibrahim Adeyemi,Cyber Security,Babcock University,2025-02-09,Selected
+APP0074,Adaeze Chukwu,UI/UX Design,University of Lagos,2025-02-28,Selected
+APP0075,Oluwatobi Okafor,Cyber Security,University of Ibadan,2025-02-13,Rejected
+APP0076,Fatima Chukwu,Data Science,Lagos State University,2025-01-12,Under Review
+APP0077,Chinedu Osei,Data Science,"University of Nigeria, Nsukka",2025-02-16,Selected
+APP0078,Yusuf Williams,Artificial Intelligence,Ahmadu Bello University,2025-02-28,Selected
+APP0079,Sarah Olawale,Artificial Intelligence,Covenant University,2025-02-24,Under Review
+APP0080,Yusuf Okafor,Data Science,Ahmadu Bello University,2025-01-16,Selected
+APP0081,Ngozi Okeke,Web Development,Lagos State University,2025-01-31,Selected
+APP0082,Joy Udo,Cyber Security,Babcock University,2025-02-23,Rejected
+APP0083,Samuel Osei,Cyber Security,University of Ibadan,2025-02-03,Rejected
+APP0084,Fatima Peter,Data Science,Babcock University,2025-02-28,Selected
+APP0085,Mariam Udo,Data Science,University of Ibadan,2025-02-09,Rejected
+APP0086,Kelechi Okeke,Cyber Security,Covenant University,2025-01-23,Selected
+APP0087,Sarah Osei,Mobile App Development,University of Lagos,2025-02-10,Rejected
+APP0088,Samuel Okeke,Artificial Intelligence,Lagos State University,2025-02-18,Under Review
+APP0089,Joy Peter,Data Science,Babcock University,2025-01-09,Under Review
+APP0090,Ibrahim Adeyemi,Data Science,"University of Nigeria, Nsukka",2025-01-14,Selected
+APP0091,Samuel Williams,Mobile App Development,Babcock University,2025-01-06,Selected
+APP0092,Kelechi Chukwu,Web Development,"University of Nigeria, Nsukka",2025-01-26,Selected
+APP0093,Joy Udo,UI/UX Design,"University of Nigeria, Nsukka",2025-02-14,Rejected
+APP0094,Chinedu Johnson,UI/UX Design,University of Lagos,2025-01-12,Selected
+APP0095,Kelechi Udo,Cyber Security,University of Ibadan,2025-02-20,Selected
+APP0096,Samuel Eze,Artificial Intelligence,University of Lagos,2025-01-23,Under Review
+APP0097,Amina Ibrahim,UI/UX Design,Ahmadu Bello University,2025-02-05,Rejected
+APP0098,Ngozi Okeke,Data Science,Babcock University,2025-02-13,Rejected
+APP0099,Yusuf Okeke,Data Science,University of Lagos,2025-02-16,Rejected
+APP0100,Adaeze Williams,Data Science,"University of Nigeria, Nsukka",2025-02-28,Rejected
+APP0101,Joy Olawale,Data Science,"Federal University of Technology, Akure",2025-01-25,Selected
+APP0102,Amina Peter,Artificial Intelligence,"University of Nigeria, Nsukka",2025-02-05,Rejected
+APP0103,Ngozi Williams,Data Science,Babcock University,2025-01-29,Selected
+APP0104,Ibrahim Nwosu,UI/UX Design,"Federal University of Technology, Akure",2025-02-15,Selected
+APP0105,Joy Adeyemi,Mobile App Development,Ahmadu Bello University,2025-01-19,Selected
+APP0106,Fatima Johnson,Data Science,Lagos State University,2025-01-14,Rejected
+APP0107,Ngozi Olawale,Web Development,"Federal University of Technology, Akure",2025-02-09,Rejected
+APP0108,Joy Eze,UI/UX Design,University of Ibadan,2025-02-21,Selected
+APP0109,Amina Afolabi,Data Science,"University of Nigeria, Nsukka",2025-02-27,Selected
+APP0110,Mariam Olawale,Cyber Security,Lagos State University,2025-01-16,Selected
+APP0111,Amina Ibrahim,Web Development,University of Ibadan,2025-02-01,Rejected
+APP0112,Yusuf Adeyemi,Data Science,Ahmadu Bello University,2025-02-07,Selected
+APP0113,Chinedu Udo,Web Development,"Federal University of Technology, Akure",2025-01-15,Under Review
+APP0114,Fatima Afolabi,Mobile App Development,University of Lagos,2025-01-09,Selected
+APP0115,Mariam Okeke,Artificial Intelligence,University of Ibadan,2025-02-07,Selected
+APP0116,Chinedu Peter,Web Development,"Federal University of Technology, Akure",2025-01-18,Under Review
+APP0117,Ibrahim Mohammed,Cyber Security,Lagos State University,2025-01-19,Selected
+APP0118,Samuel Peter,Mobile App Development,Babcock University,2025-02-20,Selected
+APP0119,Michael Udo,UI/UX Design,Lagos State University,2025-01-11,Under Review
+APP0120,Joy Johnson,Artificial Intelligence,Covenant University,2025-01-28,Rejected
+APP0121,Ibrahim Chukwu,Cyber Security,Ahmadu Bello University,2025-02-16,Selected
+APP0122,Samuel Adeyemi,UI/UX Design,University of Ibadan,2025-02-16,Under Review
+APP0123,Mariam Okafor,Web Development,Babcock University,2025-01-31,Selected
+APP0124,Sarah Nwosu,Data Science,Lagos State University,2025-01-14,Selected
+APP0125,Fatima Mohammed,Data Science,Lagos State University,2025-01-30,Rejected
+APP0126,Amina Okeke,Data Science,Covenant University,2025-02-04,Rejected
+APP0127,David Nwosu,Data Science,University of Lagos,2025-01-11,Rejected
+APP0128,Chinedu Udo,UI/UX Design,Covenant University,2025-01-30,Rejected
+APP0129,Sarah Williams,UI/UX Design,University of Lagos,2025-01-15,Under Review
+APP0130,Fatima Adeyemi,Artificial Intelligence,"Federal University of Technology, Akure",2025-01-11,Selected
+APP0131,Mariam Adeyemi,Artificial Intelligence,Covenant University,2025-02-23,Rejected
+APP0132,David Okeke,Web Development,University of Ibadan,2025-01-25,Under Review
+APP0133,Kelechi Okeke,Web Development,Lagos State University,2025-02-19,Selected
+APP0134,Kelechi Okeke,Mobile App Development,University of Lagos,2025-02-06,Selected
+APP0135,Ibrahim Udo,Cyber Security,Covenant University,2025-02-12,Rejected
+APP0136,Precious Williams,UI/UX Design,University of Lagos,2025-02-06,Under Review
+APP0137,Precious Afolabi,UI/UX Design,Lagos State University,2025-02-25,Selected
+APP0138,Kelechi Okeke,Data Science,"Federal University of Technology, Akure",2025-02-22,Rejected
+APP0139,Oluwatobi Ibrahim,UI/UX Design,Covenant University,2025-02-11,Selected
+APP0140,Joy Bello,UI/UX Design,University of Ibadan,2025-02-04,Selected
+APP0141,David Chukwu,Mobile App Development,"Federal University of Technology, Akure",2025-01-06,Selected
+APP0142,Amina Nwosu,Cyber Security,"University of Nigeria, Nsukka",2025-01-29,Selected
+APP0143,Ibrahim Afolabi,Cyber Security,Covenant University,2025-02-03,Rejected
+APP0144,Amina Olawale,Web Development,Lagos State University,2025-02-28,Under Review
+APP0145,Amina Johnson,Web Development,Lagos State University,2025-01-09,Selected
+APP0146,Ibrahim Bello,Data Science,Ahmadu Bello University,2025-01-06,Selected
+APP0147,Amina Williams,Data Science,Covenant University,2025-02-19,Rejected
+APP0148,Ibrahim Mohammed,Mobile App Development,University of Lagos,2025-02-09,Selected
+APP0149,Precious Udo,Artificial Intelligence,Ahmadu Bello University,2025-01-08,Selected
+APP0150,Precious Bello,Mobile App Development,University of Ibadan,2025-01-16,Selected
+APP0151,Joy Okeke,Mobile App Development,"University of Nigeria, Nsukka",2025-02-16,Rejected
+APP0152,Sarah Bello,Artificial Intelligence,Babcock University,2025-01-10,Rejected
+APP0153,Fatima Mohammed,Mobile App Development,University of Ibadan,2025-02-18,Rejected
+APP0154,Ibrahim Williams,UI/UX Design,Covenant University,2025-01-14,Selected
+APP0155,Precious Bello,Web Development,Lagos State University,2025-02-15,Selected
+APP0156,Ngozi Olawale,Artificial Intelligence,University of Lagos,2025-02-16,Selected
+APP0157,David Osei,Cyber Security,"University of Nigeria, Nsukka",2025-02-13,Rejected
+APP0158,Ibrahim Okafor,Web Development,University of Lagos,2025-01-07,Selected
+APP0159,Ibrahim Udo,UI/UX Design,Covenant University,2025-01-21,Rejected
+APP0160,Ibrahim Williams,Artificial Intelligence,Covenant University,2025-01-14,Selected
+APP0161,Michael Eze,Mobile App Development,"University of Nigeria, Nsukka",2025-01-07,Selected
+APP0162,Michael Eze,Mobile App Development,University of Lagos,2025-02-03,Rejected
+APP0163,David Mohammed,Data Science,Lagos State University,2025-02-26,Selected
+APP0164,Precious Nwosu,Mobile App Development,Lagos State University,2025-02-21,Under Review
+APP0165,Michael Nwosu,Mobile App Development,"Federal University of Technology, Akure",2025-02-05,Selected
+APP0166,Ngozi Ibrahim,Artificial Intelligence,University of Lagos,2025-01-19,Selected
+APP0167,Michael Osei,Cyber Security,Babcock University,2025-01-16,Under Review
+APP0168,Kelechi Osei,Cyber Security,Babcock University,2025-02-16,Rejected
+APP0169,Joy Okafor,UI/UX Design,"Federal University of Technology, Akure",2025-02-19,Selected
+APP0170,Sarah Mohammed,Cyber Security,"University of Nigeria, Nsukka",2025-01-08,Rejected
+APP0171,Joy Okafor,Cyber Security,"Federal University of Technology, Akure",2025-02-17,Rejected
+APP0172,Sarah Osei,Web Development,Lagos State University,2025-02-18,Selected
+APP0173,Michael Afolabi,UI/UX Design,Babcock University,2025-02-10,Selected
+APP0174,Samuel Mohammed,Web Development,"University of Nigeria, Nsukka",2025-02-26,Rejected
+APP0175,Oluwatobi Olawale,Mobile App Development,Ahmadu Bello University,2025-01-06,Selected
+APP0176,Samuel Osei,UI/UX Design,Babcock University,2025-02-26,Selected
+APP0177,Precious Olawale,Web Development,University of Lagos,2025-01-12,Selected
+APP0178,Ibrahim Williams,UI/UX Design,"Federal University of Technology, Akure",2025-02-05,Under Review
+APP0179,Ibrahim Peter,UI/UX Design,Ahmadu Bello University,2025-01-29,Selected
+APP0180,Chinedu Chukwu,Artificial Intelligence,Ahmadu Bello University,2025-01-31,Selected
+APP0181,Oluwatobi Chukwu,Mobile App Development,Ahmadu Bello University,2025-01-26,Selected
+APP0182,Adaeze Chukwu,Artificial Intelligence,Babcock University,2025-02-17,Selected
+APP0183,Samuel Chukwu,Web Development,Covenant University,2025-02-27,Under Review
+APP0184,Yusuf Okeke,UI/UX Design,University of Ibadan,2025-01-13,Selected
+APP0185,Kelechi Eze,Mobile App Development,Lagos State University,2025-01-12,Under Review
+APP0186,Samuel Eze,Artificial Intelligence,University of Lagos,2025-02-18,Rejected
+APP0187,Chinedu Udo,Mobile App Development,University of Lagos,2025-02-03,Rejected
+APP0188,David Afolabi,Mobile App Development,University of Ibadan,2025-02-02,Rejected
+APP0189,Mariam Mohammed,Mobile App Development,Covenant University,2025-01-28,Under Review
+APP0190,Adaeze Eze,UI/UX Design,"University of Nigeria, Nsukka",2025-01-22,Rejected
+APP0191,Samuel Chukwu,Web Development,Ahmadu Bello University,2025-01-29,Under Review
+APP0192,Chinedu Peter,Web Development,Covenant University,2025-02-11,Rejected
+APP0193,Mariam Okeke,Mobile App Development,"University of Nigeria, Nsukka",2025-01-20,Rejected
+APP0194,Ibrahim Peter,Data Science,University of Lagos,2025-02-10,Rejected
+APP0195,Sarah Okafor,Mobile App Development,"University of Nigeria, Nsukka",2025-01-19,Rejected
+APP0196,Sarah Ibrahim,Data Science,"University of Nigeria, Nsukka",2025-01-22,Selected
+APP0197,Kelechi Adeyemi,Cyber Security,Babcock University,2025-02-19,Selected
+APP0198,David Okeke,Mobile App Development,"Federal University of Technology, Akure",2025-02-14,Rejected
+APP0199,Precious Chukwu,Data Science,"Federal University of Technology, Akure",2025-02-23,Rejected
+APP0200,Ngozi Osei,Data Science,University of Lagos,2025-02-23,Selected
+APP0201,Oluwatobi Nwosu,Mobile App Development,University of Lagos,2025-01-29,Selected
+APP0202,Amina Adeyemi,Web Development,"University of Nigeria, Nsukka",2025-02-09,Under Review
+APP0203,Amina Chukwu,Data Science,"Federal University of Technology, Akure",2025-01-22,Selected
+APP0204,Mariam Adeyemi,Cyber Security,Ahmadu Bello University,2025-01-09,Selected
+APP0205,Ibrahim Afolabi,Web Development,Babcock University,2025-02-14,Rejected
+APP0206,David Afolabi,Data Science,University of Ibadan,2025-01-12,Under Review
+APP0207,Kelechi Chukwu,Web Development,Covenant University,2025-01-12,Rejected
+APP0208,Chinedu Osei,Artificial Intelligence,University of Ibadan,2025-02-03,Under Review
+APP0209,Adaeze Okafor,Mobile App Development,Babcock University,2025-02-10,Rejected
+APP0210,Sarah Johnson,Artificial Intelligence,"Federal University of Technology, Akure",2025-01-25,Selected
+APP0211,Ibrahim Osei,Web Development,University of Lagos,2025-01-10,Selected
+APP0212,Samuel Williams,Mobile App Development,University of Ibadan,2025-02-25,Selected
+APP0213,David Eze,Mobile App Development,Ahmadu Bello University,2025-01-23,Under Review
+APP0214,Sarah Eze,Cyber Security,Babcock University,2025-01-16,Rejected
+APP0215,Michael Adeyemi,Artificial Intelligence,Ahmadu Bello University,2025-02-04,Selected
+APP0216,Oluwatobi Osei,Artificial Intelligence,University of Lagos,2025-01-29,Rejected
+APP0217,Chinedu Nwosu,UI/UX Design,Ahmadu Bello University,2025-01-18,Selected
+APP0218,Chinedu Okafor,UI/UX Design,Covenant University,2025-02-27,Rejected
+APP0219,Kelechi Udo,UI/UX Design,Babcock University,2025-02-25,Rejected
+APP0220,Fatima Ibrahim,Cyber Security,Ahmadu Bello University,2025-02-10,Selected
+APP0221,David Osei,Data Science,Lagos State University,2025-01-29,Selected
+APP0222,Ibrahim Olawale,Mobile App Development,Covenant University,2025-02-15,Rejected
+APP0223,Michael Afolabi,UI/UX Design,Babcock University,2025-01-20,Rejected
+APP0224,Yusuf Afolabi,Data Science,University of Ibadan,2025-01-23,Selected
+APP0225,David Johnson,Data Science,Covenant University,2025-01-22,Under Review
+APP0226,Samuel Bello,Mobile App Development,Babcock University,2025-01-24,Selected
+APP0227,Amina Bello,Data Science,"Federal University of Technology, Akure",2025-01-11,Under Review
+APP0228,Joy Adeyemi,Artificial Intelligence,Babcock University,2025-01-18,Selected
+APP0229,Ngozi Chukwu,Data Science,Lagos State University,2025-02-08,Under Review
+APP0230,Ngozi Mohammed,Artificial Intelligence,Babcock University,2025-02-28,Rejected
+APP0231,Yusuf Williams,Web Development,"Federal University of Technology, Akure",2025-01-09,Rejected
+APP0232,Ngozi Olawale,Cyber Security,"University of Nigeria, Nsukka",2025-02-10,Rejected
+APP0233,Oluwatobi Osei,UI/UX Design,Covenant University,2025-02-15,Rejected
+APP0234,Adaeze Peter,Mobile App Development,University of Lagos,2025-02-16,Rejected
+APP0235,Yusuf Eze,Web Development,Lagos State University,2025-01-31,Selected
+APP0236,Oluwatobi Chukwu,Data Science,Covenant University,2025-01-21,Selected
+APP0237,Joy Nwosu,Cyber Security,Lagos State University,2025-02-18,Selected
+APP0238,Amina Williams,Data Science,University of Ibadan,2025-01-31,Under Review
+APP0239,Fatima Johnson,Web Development,"University of Nigeria, Nsukka",2025-01-17,Selected
+APP0240,Samuel Okafor,Mobile App Development,"Federal University of Technology, Akure",2025-02-10,Selected
+APP0241,Chinedu Osei,Mobile App Development,Babcock University,2025-01-19,Rejected
+APP0242,Yusuf Nwosu,Data Science,Ahmadu Bello University,2025-02-21,Under Review
+APP0243,Ngozi Bello,Cyber Security,"University of Nigeria, Nsukka",2025-01-17,Selected
+APP0244,Ibrahim Mohammed,Web Development,Ahmadu Bello University,2025-01-25,Rejected
+APP0245,Sarah Udo,Artificial Intelligence,"University of Nigeria, Nsukka",2025-02-21,Under Review
+APP0246,Michael Bello,Web Development,University of Lagos,2025-01-23,Under Review
+APP0247,Sarah Okeke,Web Development,Covenant University,2025-02-23,Selected
+APP0248,Samuel Okeke,Mobile App Development,Covenant University,2025-01-13,Rejected
+APP0249,Mariam Chukwu,Web Development,University of Lagos,2025-02-08,Under Review
+APP0250,Kelechi Okeke,UI/UX Design,Babcock University,2025-01-20,Selected
+APP0251,Mariam Adeyemi,Web Development,"University of Nigeria, Nsukka",2025-01-16,Rejected
+APP0252,Mariam Williams,Data Science,Lagos State University,2025-02-08,Rejected
+APP0253,Chinedu Eze,Data Science,"University of Nigeria, Nsukka",2025-01-31,Selected
+APP0254,Precious Bello,UI/UX Design,Babcock University,2025-01-31,Rejected
+APP0255,Adaeze Adeyemi,Artificial Intelligence,University of Lagos,2025-01-07,Under Review
+APP0256,Amina Okeke,Web Development,University of Ibadan,2025-01-07,Selected
+APP0257,Amina Adeyemi,UI/UX Design,Covenant University,2025-02-03,Rejected
+APP0258,Joy Eze,Mobile App Development,Ahmadu Bello University,2025-01-20,Selected
+APP0259,Sarah Afolabi,Cyber Security,University of Lagos,2025-01-25,Rejected
+APP0260,Yusuf Udo,Web Development,Covenant University,2025-02-01,Under Review
+APP0261,Precious Bello,Artificial Intelligence,"University of Nigeria, Nsukka",2025-01-31,Selected
+APP0262,Chinedu Bello,Artificial Intelligence,University of Ibadan,2025-01-07,Selected
+APP0263,Kelechi Afolabi,Artificial Intelligence,"University of Nigeria, Nsukka",2025-01-06,Rejected
+APP0264,Adaeze Adeyemi,Data Science,University of Ibadan,2025-01-30,Selected
+APP0265,Sarah Bello,Mobile App Development,Lagos State University,2025-01-12,Selected
+APP0266,Oluwatobi Ibrahim,UI/UX Design,Ahmadu Bello University,2025-01-08,Selected
+APP0267,Fatima Peter,Mobile App Development,University of Lagos,2025-02-07,Rejected
+APP0268,Fatima Udo,Mobile App Development,University of Lagos,2025-01-27,Rejected
+APP0269,Ibrahim Ibrahim,Cyber Security,Covenant University,2025-02-22,Under Review
+APP0270,Joy Johnson,Mobile App Development,University of Lagos,2025-02-28,Selected
+APP0271,Yusuf Chukwu,UI/UX Design,"Federal University of Technology, Akure",2025-01-13,Selected
+APP0272,David Eze,UI/UX Design,Covenant University,2025-01-24,Under Review
+APP0273,Adaeze Osei,Mobile App Development,Babcock University,2025-01-26,Selected
+APP0274,Ngozi Afolabi,Mobile App Development,"Federal University of Technology, Akure",2025-01-20,Under Review
+APP0275,David Osei,Mobile App Development,"Federal University of Technology, Akure",2025-02-25,Under Review
+APP0276,Fatima Okeke,UI/UX Design,Lagos State University,2025-01-18,Selected
+APP0277,Chinedu Eze,Data Science,Covenant University,2025-02-04,Under Review
+APP0278,Ibrahim Osei,Data Science,Ahmadu Bello University,2025-02-27,Under Review
+APP0279,Samuel Osei,Cyber Security,University of Ibadan,2025-02-11,Selected
+APP0280,Ibrahim Adeyemi,UI/UX Design,University of Ibadan,2025-02-20,Rejected
+APP0281,Fatima Eze,Artificial Intelligence,"University of Nigeria, Nsukka",2025-01-14,Selected
+APP0282,Kelechi Udo,Web Development,University of Lagos,2025-02-25,Under Review
+APP0283,Oluwatobi Afolabi,Mobile App Development,University of Lagos,2025-02-16,Selected
+APP0284,Sarah Adeyemi,Data Science,Covenant University,2025-01-26,Selected
+APP0285,Amina Chukwu,Cyber Security,Ahmadu Bello University,2025-02-22,Rejected
+APP0286,Ngozi Ibrahim,Mobile App Development,Babcock University,2025-02-22,Selected
+APP0287,Joy Williams,UI/UX Design,University of Ibadan,2025-02-04,Selected
+APP0288,Amina Eze,Artificial Intelligence,"Federal University of Technology, Akure",2025-02-15,Selected
+APP0289,David Johnson,UI/UX Design,Babcock University,2025-01-31,Selected
+APP0290,Amina Adeyemi,Cyber Security,University of Ibadan,2025-01-19,Rejected
+APP0291,Precious Okeke,Cyber Security,"University of Nigeria, Nsukka",2025-01-20,Selected
+APP0292,Michael Osei,Data Science,Babcock University,2025-01-08,Selected
+APP0293,Oluwatobi Chukwu,Artificial Intelligence,University of Lagos,2025-02-02,Selected
+APP0294,Yusuf Bello,Web Development,Lagos State University,2025-01-10,Under Review
+APP0295,David Ibrahim,Data Science,Ahmadu Bello University,2025-01-21,Rejected
+APP0296,Chinedu Peter,Data Science,Babcock University,2025-01-08,Rejected
+APP0297,Samuel Adeyemi,Artificial Intelligence,Babcock University,2025-01-22,Selected
+APP0298,Precious Bello,Artificial Intelligence,Ahmadu Bello University,2025-02-15,Under Review
+APP0299,Fatima Ibrahim,Data Science,University of Lagos,2025-01-16,Selected
+APP0300,Ibrahim Adeyemi,Data Science,Covenant University,2025-01-11,Selected
+APP0301,Fatima Nwosu,Artificial Intelligence,Ahmadu Bello University,2025-01-24,Selected
+APP0302,Adaeze Eze,Cyber Security,"Federal University of Technology, Akure",2025-02-22,Rejected
+APP0303,Kelechi Olawale,Cyber Security,Covenant University,2025-02-21,Selected
+APP0304,Ibrahim Johnson,Web Development,"Federal University of Technology, Akure",2025-01-19,Rejected
+APP0305,Sarah Williams,Mobile App Development,University of Lagos,2025-01-24,Rejected
+APP0306,Oluwatobi Okafor,Cyber Security,"University of Nigeria, Nsukka",2025-02-28,Selected
+APP0307,Ngozi Okafor,Web Development,University of Ibadan,2025-01-22,Selected
+APP0308,Sarah Peter,Data Science,Covenant University,2025-02-15,Rejected
+APP0309,Yusuf Okafor,Data Science,Lagos State University,2025-01-31,Selected
+APP0310,Mariam Udo,Artificial Intelligence,Ahmadu Bello University,2025-02-14,Selected
+APP0311,Amina Olawale,Data Science,University of Lagos,2025-01-24,Rejected
+APP0312,Oluwatobi Udo,Artificial Intelligence,"Federal University of Technology, Akure",2025-01-09,Selected
+APP0313,Mariam Mohammed,Cyber Security,Ahmadu Bello University,2025-02-07,Rejected
+APP0314,Ibrahim Osei,UI/UX Design,Lagos State University,2025-02-04,Selected
+APP0315,Precious Okafor,Data Science,"University of Nigeria, Nsukka",2025-01-31,Under Review
+APP0316,Michael Afolabi,Cyber Security,Lagos State University,2025-01-17,Selected
+APP0317,Samuel Mohammed,Cyber Security,"Federal University of Technology, Akure",2025-01-30,Under Review
+APP0318,Adaeze Williams,Data Science,"Federal University of Technology, Akure",2025-02-07,Rejected
+APP0319,Precious Olawale,Artificial Intelligence,"Federal University of Technology, Akure",2025-02-21,Selected
+APP0320,Amina Williams,UI/UX Design,University of Ibadan,2025-01-08,Rejected
+APP0321,Kelechi Peter,Cyber Security,University of Ibadan,2025-01-08,Rejected
+APP0322,Sarah Peter,UI/UX Design,Babcock University,2025-01-21,Rejected
+APP0323,Yusuf Bello,Artificial Intelligence,University of Lagos,2025-01-07,Rejected
+APP0324,Yusuf Peter,Web Development,University of Lagos,2025-01-07,Selected
+APP0325,Fatima Ibrahim,Artificial Intelligence,Lagos State University,2025-01-07,Under Review
+APP0326,Samuel Eze,UI/UX Design,"University of Nigeria, Nsukka",2025-01-25,Selected
+APP0327,Yusuf Eze,Artificial Intelligence,"Federal University of Technology, Akure",2025-02-21,Under Review
+APP0328,Fatima Nwosu,Data Science,Ahmadu Bello University,2025-01-10,Under Review
+APP0329,Sarah Nwosu,Mobile App Development,"Federal University of Technology, Akure",2025-01-23,Selected
+APP0330,Joy Chukwu,Mobile App Development,Lagos State University,2025-02-03,Selected
+APP0331,Ibrahim Bello,Data Science,Covenant University,2025-02-19,Selected
+APP0332,Joy Okafor,Data Science,Lagos State University,2025-02-16,Rejected
+APP0333,Precious Udo,Cyber Security,Babcock University,2025-01-17,Selected
+APP0334,Amina Johnson,Cyber Security,University of Ibadan,2025-01-10,Selected
+APP0335,Samuel Osei,UI/UX Design,"Federal University of Technology, Akure",2025-02-12,Selected
+APP0336,Ibrahim Udo,Artificial Intelligence,Ahmadu Bello University,2025-02-08,Selected
+APP0337,David Ibrahim,UI/UX Design,"University of Nigeria, Nsukka",2025-02-22,Under Review
+APP0338,Chinedu Olawale,Web Development,University of Lagos,2025-02-17,Selected
+APP0339,Oluwatobi Eze,UI/UX Design,University of Ibadan,2025-01-09,Rejected
+APP0340,Ibrahim Okeke,Mobile App Development,Babcock University,2025-02-06,Rejected
+APP0341,Joy Williams,Artificial Intelligence,Lagos State University,2025-02-19,Selected
+APP0342,Michael Okeke,Cyber Security,"Federal University of Technology, Akure",2025-02-25,Selected
+APP0343,Samuel Nwosu,Data Science,University of Lagos,2025-01-10,Selected
+APP0344,Oluwatobi Okafor,Mobile App Development,University of Lagos,2025-02-27,Under Review
+APP0345,Samuel Olawale,Web Development,"University of Nigeria, Nsukka",2025-01-27,Rejected
+APP0346,Amina Adeyemi,Mobile App Development,"University of Nigeria, Nsukka",2025-02-20,Rejected
+APP0347,David Okafor,UI/UX Design,Covenant University,2025-01-06,Selected
+APP0348,Kelechi Bello,Data Science,"Federal University of Technology, Akure",2025-01-08,Selected
+APP0349,Adaeze Johnson,Mobile App Development,Covenant University,2025-02-13,Selected
+APP0350,Samuel Bello,Artificial Intelligence,Covenant University,2025-01-09,Selected
+APP0351,Ngozi Okafor,Data Science,"University of Nigeria, Nsukka",2025-01-30,Selected
+APP0352,David Olawale,Mobile App Development,Babcock University,2025-02-22,Rejected
+APP0353,Fatima Bello,Artificial Intelligence,University of Ibadan,2025-01-28,Selected
+APP0354,Amina Ibrahim,Web Development,Covenant University,2025-02-10,Rejected
+APP0355,Amina Okafor,UI/UX Design,Babcock University,2025-01-21,Under Review
+APP0356,Michael Ibrahim,Cyber Security,Lagos State University,2025-02-15,Selected
+APP0357,Precious Udo,UI/UX Design,Babcock University,2025-01-12,Selected
+APP0358,Ngozi Okafor,Cyber Security,"University of Nigeria, Nsukka",2025-02-04,Selected
+APP0359,Adaeze Okeke,UI/UX Design,"University of Nigeria, Nsukka",2025-02-13,Rejected
+APP0360,Precious Olawale,Data Science,Babcock University,2025-02-02,Rejected
+APP0361,Fatima Okeke,Cyber Security,"University of Nigeria, Nsukka",2025-01-26,Under Review
+APP0362,Samuel Bello,UI/UX Design,"Federal University of Technology, Akure",2025-02-20,Selected
+APP0363,Adaeze Olawale,Mobile App Development,Covenant University,2025-01-19,Selected
+APP0364,Oluwatobi Adeyemi,Mobile App Development,"University of Nigeria, Nsukka",2025-01-16,Selected
+APP0365,Precious Chukwu,Web Development,"University of Nigeria, Nsukka",2025-02-17,Selected
+APP0366,Chinedu Udo,UI/UX Design,Covenant University,2025-01-23,Selected
+APP0367,Adaeze Williams,Data Science,Lagos State University,2025-02-03,Selected
+APP0368,Joy Osei,Web Development,Covenant University,2025-02-09,Selected
+APP0369,Mariam Bello,UI/UX Design,"Federal University of Technology, Akure",2025-02-27,Selected
+APP0370,Kelechi Nwosu,Artificial Intelligence,"Federal University of Technology, Akure",2025-02-14,Rejected
+APP0371,Samuel Mohammed,Artificial Intelligence,"University of Nigeria, Nsukka",2025-01-18,Under Review
+APP0372,Oluwatobi Nwosu,Web Development,"Federal University of Technology, Akure",2025-02-23,Selected
+APP0373,Amina Udo,Data Science,"Federal University of Technology, Akure",2025-02-03,Rejected
+APP0374,Yusuf Eze,Web Development,"University of Nigeria, Nsukka",2025-02-19,Selected
+APP0375,Michael Bello,Cyber Security,University of Ibadan,2025-01-06,Selected
+APP0376,Mariam Okeke,Cyber Security,Babcock University,2025-02-27,Rejected
+APP0377,Ibrahim Olawale,Web Development,Lagos State University,2025-02-23,Rejected
+APP0378,Sarah Bello,Mobile App Development,"Federal University of Technology, Akure",2025-02-08,Rejected
+APP0379,Mariam Osei,Web Development,Covenant University,2025-02-06,Rejected
+APP0380,Oluwatobi Okeke,Mobile App Development,Babcock University,2025-02-01,Selected
+APP0381,Oluwatobi Olawale,Data Science,Ahmadu Bello University,2025-02-21,Under Review
+APP0382,Samuel Williams,Artificial Intelligence,Lagos State University,2025-02-07,Selected
+APP0383,Chinedu Osei,Cyber Security,"University of Nigeria, Nsukka",2025-02-24,Selected
+APP0384,Sarah Bello,Mobile App Development,Lagos State University,2025-01-22,Rejected
+APP0385,Joy Peter,Web Development,"University of Nigeria, Nsukka",2025-01-08,Under Review
+APP0386,Fatima Adeyemi,Artificial Intelligence,Covenant University,2025-02-03,Selected
+APP0387,Fatima Afolabi,Cyber Security,Babcock University,2025-02-04,Selected
+APP0388,Ngozi Afolabi,Mobile App Development,Lagos State University,2025-02-04,Rejected
+APP0389,Ngozi Okafor,Data Science,Lagos State University,2025-02-12,Selected
+APP0390,David Osei,UI/UX Design,University of Ibadan,2025-02-14,Selected
+APP0391,Joy Eze,Mobile App Development,Covenant University,2025-02-05,Under Review
+APP0392,Mariam Okeke,Artificial Intelligence,"University of Nigeria, Nsukka",2025-01-19,Selected
+APP0393,David Chukwu,Data Science,Ahmadu Bello University,2025-02-06,Rejected
+APP0394,Sarah Johnson,Mobile App Development,"Federal University of Technology, Akure",2025-02-05,Rejected
+APP0395,Michael Williams,Artificial Intelligence,"University of Nigeria, Nsukka",2025-02-04,Selected
+APP0396,Kelechi Bello,Cyber Security,"University of Nigeria, Nsukka",2025-01-29,Selected
+APP0397,Yusuf Williams,Artificial Intelligence,Ahmadu Bello University,2025-01-17,Rejected
+APP0398,Mariam Nwosu,Artificial Intelligence,"University of Nigeria, Nsukka",2025-01-20,Under Review
+APP0399,Samuel Nwosu,Cyber Security,University of Ibadan,2025-01-25,Under Review
+APP0400,Joy Chukwu,Data Science,Ahmadu Bello University,2025-01-18,Selected
+APP0401,Chinedu Johnson,UI/UX Design,Covenant University,2025-02-15,Selected
+APP0402,Ngozi Williams,Data Science,"University of Nigeria, Nsukka",2025-01-10,Rejected
+APP0403,Ngozi Osei,Mobile App Development,University of Ibadan,2025-02-16,Rejected
+APP0404,Fatima Olawale,Web Development,University of Ibadan,2025-01-07,Under Review
+APP0405,Michael Eze,Mobile App Development,Babcock University,2025-01-10,Selected
+APP0406,Precious Ibrahim,Mobile App Development,Babcock University,2025-02-09,Selected
+APP0407,Amina Ibrahim,Mobile App Development,Covenant University,2025-01-09,Under Review
+APP0408,Oluwatobi Eze,UI/UX Design,"Federal University of Technology, Akure",2025-01-28,Rejected
+APP0409,Michael Peter,Artificial Intelligence,Babcock University,2025-01-28,Selected
+APP0410,Kelechi Afolabi,Artificial Intelligence,University of Lagos,2025-02-03,Selected
+APP0411,Precious Okeke,Data Science,Babcock University,2025-02-03,Rejected
+APP0412,Ibrahim Johnson,Data Science,Ahmadu Bello University,2025-01-09,Under Review
+APP0413,Ibrahim Eze,Mobile App Development,Babcock University,2025-01-22,Rejected
+APP0414,Amina Ibrahim,Cyber Security,Ahmadu Bello University,2025-02-07,Under Review
+APP0415,Joy Adeyemi,Data Science,University of Lagos,2025-02-19,Selected
+APP0416,Fatima Eze,Mobile App Development,Babcock University,2025-01-26,Selected
+APP0417,Ngozi Okafor,UI/UX Design,Ahmadu Bello University,2025-02-25,Selected
+APP0418,Yusuf Nwosu,Data Science,Babcock University,2025-01-11,Rejected
+APP0419,Ngozi Olawale,UI/UX Design,Ahmadu Bello University,2025-02-22,Rejected
+APP0420,Ibrahim Bello,Mobile App Development,University of Lagos,2025-02-23,Rejected

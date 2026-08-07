@@ -1,0 +1,188 @@
+intern_id,applicant_id,domain,start_date,completion_status
+INT0001,APP0382,Artificial Intelligence,2025-03-11,Completed
+INT0002,APP0217,UI/UX Design,2025-03-23,Completed
+INT0003,APP0288,Artificial Intelligence,2025-03-13,Completed
+INT0004,APP0270,Mobile App Development,2025-03-18,Completed
+INT0005,APP0010,UI/UX Design,2025-03-10,Completed
+INT0006,APP0182,Artificial Intelligence,2025-03-10,Completed
+INT0007,APP0334,Cyber Security,2025-03-24,Completed
+INT0008,APP0002,UI/UX Design,2025-03-19,Completed
+INT0009,APP0326,UI/UX Design,2025-03-13,Completed
+INT0010,APP0258,Mobile App Development,2025-03-16,Completed
+INT0011,APP0042,Data Science,2025-03-17,Completed
+INT0012,APP0115,Artificial Intelligence,2025-03-18,Completed
+INT0013,APP0054,Artificial Intelligence,2025-03-14,Completed
+INT0014,APP0276,UI/UX Design,2025-03-20,Completed
+INT0015,APP0380,Mobile App Development,2025-03-23,Completed
+INT0016,APP0062,Web Development,2025-03-11,Completed
+INT0017,APP0342,Cyber Security,2025-03-16,Completed
+INT0018,APP0226,Mobile App Development,2025-03-15,Completed
+INT0019,APP0303,Cyber Security,2025-03-12,Dropped Out
+INT0020,APP0169,UI/UX Design,2025-03-17,Completed
+INT0021,APP0121,Cyber Security,2025-03-15,Completed
+INT0022,APP0250,UI/UX Design,2025-03-15,Completed
+INT0023,APP0137,UI/UX Design,2025-03-20,Completed
+INT0024,APP0196,Data Science,2025-03-11,Completed
+INT0025,APP0400,Data Science,2025-03-22,Completed
+INT0026,APP0286,Mobile App Development,2025-03-21,Completed
+INT0027,APP0415,Data Science,2025-03-10,Completed
+INT0028,APP0256,Web Development,2025-03-11,Completed
+INT0029,APP0027,Artificial Intelligence,2025-03-20,Completed
+INT0030,APP0039,Mobile App Development,2025-03-16,Completed
+INT0031,APP0291,Cyber Security,2025-03-12,Completed
+INT0032,APP0176,UI/UX Design,2025-03-17,Completed
+INT0033,APP0211,Web Development,2025-03-17,Completed
+INT0034,APP0417,UI/UX Design,2025-03-16,Dropped Out
+INT0035,APP0212,Mobile App Development,2025-03-19,Completed
+INT0036,APP0090,Data Science,2025-03-16,Completed
+INT0037,APP0281,Artificial Intelligence,2025-03-17,Completed
+INT0038,APP0387,Cyber Security,2025-03-11,Completed
+INT0039,APP0204,Cyber Security,2025-03-18,Completed
+INT0040,APP0181,Mobile App Development,2025-03-11,Completed
+INT0041,APP0383,Cyber Security,2025-03-20,Completed
+INT0042,APP0021,Artificial Intelligence,2025-03-24,Completed
+INT0043,APP0046,Artificial Intelligence,2025-03-23,Completed
+INT0044,APP0163,Data Science,2025-03-22,Completed
+INT0045,APP0154,UI/UX Design,2025-03-22,Completed
+INT0046,APP0363,Mobile App Development,2025-03-21,Dropped Out
+INT0047,APP0386,Artificial Intelligence,2025-03-23,Completed
+INT0048,APP0236,Data Science,2025-03-19,Completed
+INT0049,APP0365,Web Development,2025-03-12,Completed
+INT0050,APP0356,Cyber Security,2025-03-15,Completed
+INT0051,APP0017,UI/UX Design,2025-03-19,Completed
+INT0052,APP0389,Data Science,2025-03-14,Completed
+INT0053,APP0310,Artificial Intelligence,2025-03-22,Completed
+INT0054,APP0353,Artificial Intelligence,2025-03-20,Dropped Out
+INT0055,APP0124,Data Science,2025-03-24,Completed
+INT0056,APP0064,Web Development,2025-03-17,Completed
+INT0057,APP0073,Cyber Security,2025-03-12,Completed
+INT0058,APP0203,Data Science,2025-03-19,Completed
+INT0059,APP0074,UI/UX Design,2025-03-15,Dropped Out
+INT0060,APP0180,Artificial Intelligence,2025-03-14,Completed
+INT0061,APP0140,UI/UX Design,2025-03-22,Dropped Out
+INT0062,APP0165,Mobile App Development,2025-03-24,Dropped Out
+INT0063,APP0130,Artificial Intelligence,2025-03-14,Completed
+INT0064,APP0078,Artificial Intelligence,2025-03-12,Completed
+INT0065,APP0086,Cyber Security,2025-03-11,Completed
+INT0066,APP0316,Cyber Security,2025-03-10,Completed
+INT0067,APP0237,Cyber Security,2025-03-13,Completed
+INT0068,APP0409,Artificial Intelligence,2025-03-16,Completed
+INT0069,APP0401,UI/UX Design,2025-03-15,Completed
+INT0070,APP0041,UI/UX Design,2025-03-19,Dropped Out
+INT0071,APP0331,Data Science,2025-03-14,Completed
+INT0072,APP0333,Cyber Security,2025-03-18,Completed
+INT0073,APP0406,Mobile App Development,2025-03-17,Dropped Out
+INT0074,APP0392,Artificial Intelligence,2025-03-23,Completed
+INT0075,APP0239,Web Development,2025-03-13,Completed
+INT0076,APP0240,Mobile App Development,2025-03-10,Completed
+INT0077,APP0201,Mobile App Development,2025-03-22,Completed
+INT0078,APP0265,Mobile App Development,2025-03-19,Completed
+INT0079,APP0324,Web Development,2025-03-23,Completed
+INT0080,APP0161,Mobile App Development,2025-03-16,Completed
+INT0081,APP0008,UI/UX Design,2025-03-20,Completed
+INT0082,APP0410,Artificial Intelligence,2025-03-16,Completed
+INT0083,APP0235,Web Development,2025-03-14,Completed
+INT0084,APP0005,Web Development,2025-03-11,Completed
+INT0085,APP0160,Artificial Intelligence,2025-03-22,Completed
+INT0086,APP0293,Artificial Intelligence,2025-03-17,Completed
+INT0087,APP0050,Web Development,2025-03-18,Completed
+INT0088,APP0066,Web Development,2025-03-14,Completed
+INT0089,APP0142,Cyber Security,2025-03-14,Completed
+INT0090,APP0057,Cyber Security,2025-03-23,Completed
+INT0091,APP0155,Web Development,2025-03-20,Completed
+INT0092,APP0148,Mobile App Development,2025-03-22,Dropped Out
+INT0093,APP0101,Data Science,2025-03-24,Completed
+INT0094,APP0141,Mobile App Development,2025-03-15,Completed
+INT0095,APP0145,Web Development,2025-03-12,Dropped Out
+INT0096,APP0330,Mobile App Development,2025-03-15,Dropped Out
+INT0097,APP0184,UI/UX Design,2025-03-20,Completed
+INT0098,APP0177,Web Development,2025-03-13,Completed
+INT0099,APP0348,Data Science,2025-03-11,Dropped Out
+INT0100,APP0104,UI/UX Design,2025-03-19,Completed
+INT0101,APP0289,UI/UX Design,2025-03-23,Completed
+INT0102,APP0374,Web Development,2025-03-13,Completed
+INT0103,APP0336,Artificial Intelligence,2025-03-18,Completed
+INT0104,APP0357,UI/UX Design,2025-03-17,Completed
+INT0105,APP0175,Mobile App Development,2025-03-11,Completed
+INT0106,APP0103,Data Science,2025-03-18,Completed
+INT0107,APP0215,Artificial Intelligence,2025-03-19,Completed
+INT0108,APP0200,Data Science,2025-03-16,Completed
+INT0109,APP0319,Artificial Intelligence,2025-03-24,Completed
+INT0110,APP0297,Artificial Intelligence,2025-03-21,Dropped Out
+INT0111,APP0350,Artificial Intelligence,2025-03-12,Completed
+INT0112,APP0095,Cyber Security,2025-03-10,Completed
+INT0113,APP0172,Web Development,2025-03-11,Completed
+INT0114,APP0110,Cyber Security,2025-03-24,Completed
+INT0115,APP0335,UI/UX Design,2025-03-12,Completed
+INT0116,APP0395,Artificial Intelligence,2025-03-18,Completed
+INT0117,APP0049,UI/UX Design,2025-03-13,Completed
+INT0118,APP0092,Web Development,2025-03-15,Completed
+INT0119,APP0369,UI/UX Design,2025-03-23,Completed
+INT0120,APP0094,UI/UX Design,2025-03-17,Completed
+INT0121,APP0053,UI/UX Design,2025-03-23,Completed
+INT0122,APP0045,Data Science,2025-03-24,Dropped Out
+INT0123,APP0266,UI/UX Design,2025-03-17,Completed
+INT0124,APP0343,Data Science,2025-03-18,Completed
+INT0125,APP0080,Data Science,2025-03-11,Completed
+INT0126,APP0284,Data Science,2025-03-11,Completed
+INT0127,APP0112,Data Science,2025-03-11,Completed
+INT0128,APP0299,Data Science,2025-03-13,Completed
+INT0129,APP0271,UI/UX Design,2025-03-19,Dropped Out
+INT0130,APP0063,Cyber Security,2025-03-13,Completed
+INT0131,APP0156,Artificial Intelligence,2025-03-15,Completed
+INT0132,APP0031,Web Development,2025-03-24,Completed
+INT0133,APP0071,Data Science,2025-03-24,Completed
+INT0134,APP0114,Mobile App Development,2025-03-12,Dropped Out
+INT0135,APP0146,Data Science,2025-03-17,Completed
+INT0136,APP0329,Mobile App Development,2025-03-12,Dropped Out
+INT0137,APP0306,Cyber Security,2025-03-18,Completed
+INT0138,APP0309,Data Science,2025-03-23,Completed
+INT0139,APP0158,Web Development,2025-03-22,Completed
+INT0140,APP0375,Cyber Security,2025-03-21,Completed
+INT0141,APP0314,UI/UX Design,2025-03-23,Completed
+INT0142,APP0341,Artificial Intelligence,2025-03-13,Dropped Out
+INT0143,APP0150,Mobile App Development,2025-03-11,Completed
+INT0144,APP0149,Artificial Intelligence,2025-03-18,Completed
+INT0145,APP0228,Artificial Intelligence,2025-03-14,Completed
+INT0146,APP0077,Data Science,2025-03-14,Dropped Out
+INT0147,APP0123,Web Development,2025-03-13,Completed
+INT0148,APP0261,Artificial Intelligence,2025-03-22,Dropped Out
+INT0149,APP0390,UI/UX Design,2025-03-10,Dropped Out
+INT0150,APP0091,Mobile App Development,2025-03-24,Completed
+INT0151,APP0210,Artificial Intelligence,2025-03-12,Dropped Out
+INT0152,APP0292,Data Science,2025-03-10,Completed
+INT0153,APP0034,Cyber Security,2025-03-16,Dropped Out
+INT0154,APP0307,Web Development,2025-03-11,Completed
+INT0155,APP0396,Cyber Security,2025-03-10,Completed
+INT0156,APP0279,Cyber Security,2025-03-15,Dropped Out
+INT0157,APP0011,Web Development,2025-03-20,Completed
+INT0158,APP0109,Data Science,2025-03-13,Completed
+INT0159,APP0262,Artificial Intelligence,2025-03-18,Completed
+INT0160,APP0022,Cyber Security,2025-03-23,Completed
+INT0161,APP0253,Data Science,2025-03-20,Completed
+INT0162,APP0133,Web Development,2025-03-10,Completed
+INT0163,APP0368,Web Development,2025-03-16,Completed
+INT0164,APP0358,Cyber Security,2025-03-16,Completed
+INT0165,APP0366,UI/UX Design,2025-03-24,Completed
+INT0166,APP0105,Mobile App Development,2025-03-21,Completed
+INT0167,APP0405,Mobile App Development,2025-03-19,Completed
+INT0168,APP0312,Artificial Intelligence,2025-03-20,Completed
+INT0169,APP0134,Mobile App Development,2025-03-11,Completed
+INT0170,APP0179,UI/UX Design,2025-03-21,Dropped Out
+INT0171,APP0084,Data Science,2025-03-16,Completed
+INT0172,APP0367,Data Science,2025-03-23,Completed
+INT0173,APP0220,Cyber Security,2025-03-10,Completed
+INT0174,APP0264,Data Science,2025-03-22,Dropped Out
+INT0175,APP0351,Data Science,2025-03-22,Completed
+INT0176,APP0118,Mobile App Development,2025-03-18,Completed
+INT0177,APP0300,Data Science,2025-03-13,Completed
+INT0178,APP0347,UI/UX Design,2025-03-17,Completed
+INT0179,APP0362,UI/UX Design,2025-03-22,Completed
+INT0180,APP0069,Artificial Intelligence,2025-03-13,Completed
+INT0181,APP0173,UI/UX Design,2025-03-19,Completed
+INT0182,APP0035,Mobile App Development,2025-03-15,Completed
+INT0183,APP0416,Mobile App Development,2025-03-10,Completed
+INT0184,APP0287,UI/UX Design,2025-03-14,Completed
+INT0185,APP0273,Mobile App Development,2025-03-12,Dropped Out
+INT0186,APP0166,Artificial Intelligence,2025-03-14,Completed
+INT0187,APP0003,Data Science,2025-03-11,Dropped Out
